@@ -1,0 +1,9 @@
+module VPPowerOverhaul
+{
+  item batteryBank
+  {
+    displaycategory = Electronics,
+  }
+
+  /* TODO: Flywheel, Compressed Gases */
+}

@@ -1,0 +1,52 @@
+module VPPowerOverhaul
+{
+  item cable
+  {
+    displaycategory = Electronics,
+  }
+
+  item conduit
+  {
+    displaycategory = Electronics,
+  }
+
+  item transferSwitch
+  {
+    displaycategory = Electronics,
+  }
+
+  item chargeController
+  {
+    displaycategory = Electronics,
+  }
+
+  item inverter
+  {
+    displaycategory = Electronics,
+  }
+
+  item breakerBox
+  {
+    displaycategory = Electronics,
+  }
+
+  item inverterCharger
+  {
+    displaycategory = Electronics,
+  }
+
+  item breaker
+  {
+    displaycategory = Electronics,
+  }
+
+  item outlet
+  {
+    displaycategory = Electronics,
+  }
+
+  item switch
+  {
+    displaycategory = Electronics,
+  }
+}

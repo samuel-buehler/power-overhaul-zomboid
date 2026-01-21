@@ -118,3 +118,16 @@ Note that, in the long run, I'd like for this to expand beyond grids and to also
 (to supplement the existing portable generators), corded power tools, alternative ways of powering motor 
 vehicles (biogas, electricity, steam, etc.), etc. Those things aren't necessarily my first concern, but feel 
 free to keep that context in mind.
+
+# Roadmap
+
+## V0.1
+
+Achieve:
+
+- Ability to connect a Generator (sprite) to a power inlet (sprite)
+- Logically connect power inlet to a Breaker Box.
+- Super basic Breaker Box UI.
+- Be able to add a **Breaker** to a **Breaker Box**.
+  - Have a newly installed **Breaker** create a logical **Circuit**.  **Circuit** is deleted if it's **Breaker** is uninstalled.
+- Be able to connect a "load" to a **Circuit**.

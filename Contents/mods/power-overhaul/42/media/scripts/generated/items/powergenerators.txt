@@ -1,0 +1,37 @@
+module VPPowerOverhaul
+{
+  item sparkEngine
+  {
+    displaycategory = Electronics,
+  }
+
+  item compressionEngine
+  {
+    displaycategory = Electronics,
+  }
+
+  item steamEngine
+  {
+    displaycategory = Electronics,
+  }
+
+  item electricMotor
+  {
+    displaycategory = Electronics,
+  }
+
+  item solarPVPanel
+  {
+    displaycategory = Electronics,
+  }
+
+  item windTurbine
+  {
+    displaycategory = Electronics,
+  }
+
+  item waterTurbine
+  {
+    displaycategory = Electronics,
+  }
+}
